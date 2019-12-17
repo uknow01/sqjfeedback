@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*
 import sys
-
-#https://www.jianshu.com/p/3d2c0e092ffb
 #reload(sys)
 #sys.setdefaultencoding( "utf-8" )
 import time,os
